@@ -23,6 +23,7 @@ h2 {
 h2 a{
 	color: #2cd329; 
 }
+
 #content { 
     float:left;
     width:60%;
@@ -42,6 +43,7 @@ p.date {
     font-family: georgia, serif;
     font-size: 12px;
     font-style: italic; 
+	color: #00a92c; 
 }
 
 /* pagination */
